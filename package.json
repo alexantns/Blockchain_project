@@ -1,0 +1,26 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "Election Voting - Ethereum Blockchain dApp on the Ethereum Blockchain Network With MetaMask Developed a client-side web",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "start": "parcel Source/index.html"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "parcel": "^2.8.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "web3": "^1.8.1"
+  },
+  "keywords": []
+}
